@@ -20,7 +20,7 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 ## Discord Server
 
-- [Cursor Gaming](https://discord.gg/mnQvdsZx5F)
+- [MUSICALLY | COMMUNNITY](https://discord.gg/zpBHvKwWfw)
 
 ## Ussage
 
@@ -78,9 +78,5 @@ app.listen(port, () => {
 
 If you have any questions regarding this project, or you are not able to use this bot, feel free to ask in our discord server [Cursor Gaming](https://discord.gg/mnQvdsZx5F)
 
-## .env File
 
-```env
-BOT_TOKEN="your bot token"
-MONGO_URI="your mongo-db uri"
 ```
