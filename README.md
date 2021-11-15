@@ -34,9 +34,9 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 ![Glitch Second](https://github.com/naveenpoddar/uptimer/blob/main/images/glitch-second.png?raw=true)
 
-4. Next Join [Cursor Gaming](https://discord.gg/mnQvdsZx5F) Discord Server and go to the uptimer channel.
+4. Next Join [MUSICALLY | COMMUNTIY](https://discord.gg/zpBHvKwWfw) Discord Server and go to the uptimer channel.
 
-![Uptimer Channel](https://github.com/naveenpoddar/uptimer/blob/main/images/uptimer.png?raw=true)
+![Uptimer Channel](![image](https://user-images.githubusercontent.com/90130011/141716907-39433eae-3b60-41fc-a2be-386faea8529d.png))
 
 5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
 
@@ -68,9 +68,9 @@ app.listen(port, () => {
 
 ![Repl Second](https://github.com/naveenpoddar/uptimer/blob/main/images/repl-second.png?raw=true)
 
-4. Next Join [Cursor Gaming](https://discord.gg/mnQvdsZx5F) Discord Server and go to the uptimer channel.
+4. Next Join [MUSICALLY | COMMUNTIY](https://discord.gg/zpBHvKwWfw) Discord Server and go to the uptimer channel.
 
-![Uptimer Channel](https://github.com/naveenpoddar/uptimer/blob/main/images/uptimer.png?raw=true)
+![Uptimer Channel](![image](https://user-images.githubusercontent.com/90130011/141716923-450a7385-b94a-4073-83bc-4e2b9fd4e4f5.png))
 
 5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
 
