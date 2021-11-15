@@ -36,7 +36,7 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 4. Next Join [MUSICALLY | COMMUNTIY](https://discord.gg/zpBHvKwWfw) Discord Server and go to the uptimer channel.
 
-![Uptimer Channel](![image](https://user-images.githubusercontent.com/90130011/141716907-39433eae-3b60-41fc-a2be-386faea8529d.png))
+![Uptimer Channel](https://cdn.discordapp.com/attachments/886909648593109024/909643504748208148/unknown.png)
 
 5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
 
@@ -70,7 +70,7 @@ app.listen(port, () => {
 
 4. Next Join [MUSICALLY | COMMUNTIY](https://discord.gg/zpBHvKwWfw) Discord Server and go to the uptimer channel.
 
-![Uptimer Channel](![image](https://user-images.githubusercontent.com/90130011/141716923-450a7385-b94a-4073-83bc-4e2b9fd4e4f5.png))
+![Uptimer Channel](https://cdn.discordapp.com/attachments/886909648593109024/909643504748208148/unknown.png)
 
 5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
 
